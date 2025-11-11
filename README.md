@@ -19,10 +19,10 @@
 
 | Category | Key Technologies |
 | :--- | :--- |
-| **Languages and Frameworks** | 💻 TypeScript, Python, React, Node.js, Express.js, Next.js, Expo |
-| **Automation/DevOps** | ⚙️ Shell Script, CI/CD, Docker |
-| **Database** | 🗄️ SQLite |
-| **Infrastructure** | 🐧 Linux (Fedora and Arch), Networking, Servers |
+| **Linguagens and Frameworks** | <img src="[https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)" alt="TypeScript Badge"/> <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt="Python Badge"/> <img src="[https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)" alt="React Badge"/> <img src="[https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)" alt="Node.js Badge"/> <img src="[https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)" alt="Express.js Badge"/> <img src="[https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)" alt="Next.js Badge"/> <img src="[https://img.shields.io/badge/Expo-1B1F2D?style=for-the-badge&logo=expo&logoColor=white](https://img.shields.io/badge/Expo-1B1F2D?style=for-the-badge&logo=expo&logoColor=white)" alt="Expo Badge"/> |
+| **Automation/DevOps** | <img src="[https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)" alt="Shell Script Badge"/> <img src="[https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)" alt="Docker Badge"/> |
+| **Database** | <img src="[https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)" alt="SQLite Badge"/> |
+| **Infrastructure** | <img src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)" alt="Linux Badge"/> |
 
 ---
 
