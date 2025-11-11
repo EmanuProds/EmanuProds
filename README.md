@@ -1,6 +1,6 @@
 # Hello 👋, I'm Emanuel da Costa Pereira!
 
-### 💻 Full-Stack Developer | DevOps | IT Technician
+### 💻 Fullstack Developer | DevOps | IT Technician
 
 **Passionate about software development, automation, computer infrastructure maintenance, and driven to turn curiosity into code.**
 
@@ -28,5 +28,4 @@
 
 ### 🌐 Connect With Me
 
-* [LinkedIn](https://www.linkedin.com/in/emanuel-pereira-100717260)
-* [Email](mailto:emanuprods@proton.me)
+* 📧 [Email](mailto:emanuprods@proton.me)
