@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hello 👋, I'm Emanuel da Costa Pereira!
 
-<!--
-**EmanuProds/EmanuProds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full-Stack Developer | DevOps | IT Technician
 
-Here are some ideas to get you started:
+**Passionate about software development, automation, computer infrastructure maintenance, and driven to turn curiosity into code.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 Technical Highlights
+
+* ⚙️ **Automation:** Developed several *shellscripts* to automate the post-installation of Arch Linux and other systems, demonstrating strong aptitude for programming and optimization.
+* 🛠️ **Solution Development:** Experienced in creating and implementing integrated customer service platforms (e.g., WhatsApp solutions) to optimize client processes.
+* 📡 **Infrastructure & Support:** Solid foundation in IT support and maintenance, covering local networks, servers, and technical support, ensuring operational continuity and security.
+* 📚 **Mentoring and Teaching:** Served as an IT instructor, combining technical skills with the capacity for guidance and leadership.
+
+---
+
+### 🚀 Currently Using
+
+| Category | Key Technologies |
+| :--- | :--- |
+| **Languages and Frameworks** | 💻 TypeScript, Python, React, Node.js, Express.js, Next.js, Expo |
+| **Automation/DevOps** | ⚙️ Shell Script, CI/CD, Docker |
+| **Database** | 🗄️ SQLite |
+| **Infrastructure** | 🐧 Linux (Fedora and Arch), Networking, Servers |
+
+---
+
+### 🌐 Connect With Me
+
+* [LinkedIn](https://www.linkedin.com/in/emanuel-pereira-100717260)
+* [Email](mailto:emanuprods@proton.me)
