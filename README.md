@@ -1,6 +1,6 @@
 # Hello 👋, I'm Emanuel da Costa Pereira!
 
-### 💻 Fullstack Developer | DevOps | IT Technician
+### 💻 Software Developer | DevOps | IT Technician
 
 **Passionate about software development, automation, computer infrastructure maintenance, and driven to turn curiosity into code.**
 
