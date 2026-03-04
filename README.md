@@ -8,10 +8,10 @@
 
 ### 🔥 Professional Highlights
 
-* 🚀 **Data Engineering & Migration:** Created the **"MigrateDB"** system, specializing in large-scale data transition from Firebird to **SQL Server**, solving complex encoding and integrity challenges.
-* 🤖 **Intelligent Automation:** Expert in building automation scripts with **Python** and **Node.js**, including integrations with **ChatGPT API** and **WhatsApp Business API** (processing over 20k records).
-* 🏛️ **Legacy Modernization:** Experienced in upgrading **Legacy Systems** from Delphi 7 to Python and Firebird 1.0.3 to Microsoft SQL Server migrate database, ensuring business continuity with modern database architectures.
-* 🛠️ **Infrastructure & DevOps:** Solid experience in **Linux (Fedora/Debian/Arch Linux)**, **Docker**, and Windows Server management, implementing **CI/CD** workflows on GitHub.
+* **Data Engineering & Migration:** Created the **"MigrateDB"** system, specializing in large-scale data transition from Firebird to **SQL Server**, solving complex encoding and integrity challenges.
+* **Intelligent Automation:** Expert in building automation scripts with **Python** and **Node.js**, including integrations with **ChatGPT API** and **WhatsApp Business API** (processing over 20k records).
+* **Legacy Modernization:** Experienced in upgrading **Legacy Systems** from Delphi 7 to Python and Firebird 1.0.3 to Microsoft SQL Server migrate database, ensuring business continuity with modern database architectures.
+* **Infrastructure & DevOps:** Solid experience in **Linux (Fedora/Debian/Arch Linux)**, **Docker**, and Windows Server management, implementing **CI/CD** workflows on GitHub.
 
 ---
 
@@ -28,9 +28,9 @@
 
 ### 📊 Current Projects & Focus
 
-* 🎓 Studying **Computer Science** at Faculdade Descomplica (Class of 2029).
-* 🔧 Modernizing systems at **Campos Developers** using Python, Microsoft SQL Server, and Delphi/Pascal.
-* ☁️ Enhancing my knowledge in **Cloud Computing** and **Software Architecture**.
+* Studying **Computer Science** at Faculdade Descomplica (Class of 2029).
+* Modernizing systems at **Campos Developers** using Python, Microsoft SQL Server, and Delphi/Pascal.
+* Enhancing my knowledge in **Cloud Computing** and **Software Architecture**.
 
 ### 🌐 Connect With Me
 
