@@ -6,14 +6,6 @@
 
 ---
 
-### 🔥 Professional Highlights
-
-* **Data Engineering & Migration:** Created the **"MigrateDB"** system, specializing in large-scale data transition from Firebird to **SQL Server**, solving complex encoding and integrity challenges.
-* **Intelligent Automation:** Building automation scripts with **Python** and **Node.js**, including integrations with **ChatGPT API** and **WhatsApp Business API** (processing over 20k records) with **"Image2DOC"** personal project.
-* **Infrastructure:** Solid experience in **Linux (Fedora/Arch Linux)**, hardware maintenance, implementing **CI/CD** workflows on GitHub.
-
----
-
 ### 🚀 Stack & Technologies
 
 | Category | Technologies |
@@ -28,7 +20,7 @@
 ### 📊 Current Projects & Focus
 
 * Studying **Computer Science** at Faculdade Descomplica (Class of 2029).
-* Modernizing systems at **Campos Developers** using Python, TypeScript, React, AWS Lambda, Aurora PostgreSQL, Microsoft SQL Server, and Delphi/Pascal.
+* Modernizing systems at **PerainsON Technology** using Python, TypeScript, React, PostgreSQL, CI/CD, and OCI.
 * Enhancing my knowledge in **Cloud Computing** and **Software Architecture**.
 
 ### 🌐 Connect With Me
