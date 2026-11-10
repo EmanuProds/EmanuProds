@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=6F8396&center=true&vSRVWidth=40&width=680&lines=Hi%2C+I'm+Emanuel+da+Costa+Pereira!;Software+Engineer+%E2%80%94+Building+ERPs+%26+Automation;Backend+in+Go%2C+frontend+in+Angular+%2B+TypeScript;Designing+my+own+AI+agent+harness;Administering+cloud+infra+on+Oracle+Cloud;Turning+logic+into+solutions" alt="Typing SVG: Hi, I'm Emanuel da Costa Pereira — Software Engineer building ERPs & Automation, Go backend, Angular frontend, AI harness, Oracle Cloud" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=6F8396&center=true&vSRVWidth=40&width=680&lines=Hi%2C+I'm+Emanuel+da+Costa+Pereira!;Software+Engineer+%E2%80%94+Building+ERPs+%26+Automation;Backend+in+Go%2C+frontend+in+Angular+%2B+TypeScript;Designing+my+own+AI+agent+harness;Administering+cloud+infra+on+Oracle+Cloud;Turning+logic+into+solutions" alt="Typing SVG: Hi, I'm Emanuel da Costa Pereira — Software Engineer building ERPs & Automation, Go backend, Angular frontend, AI harness, Oracle Cloud" />
 
 <p align="center">
-  <em>Turning complex business rules into agile, scalable, and automated solutions.</em>
+ <em>Turning complex business rules into agile, scalable, and automated solutions.</em>
 </p>
 
 ---
 
-### 🧭 About me
+### About me
 
 I'm the **sole software developer at Perains ON Technology** (since May 2026), where I research, architect, design, and ship **[Perains ON Sistemas](https://perainson.duckdns.org)** — my own SaaS ERP for Brazilian accounting, from database schema and tax rules to API, UI, documents generation, and CI. I also run my own cloud infrastructure on **Oracle Cloud**.
 
@@ -19,7 +19,7 @@ I'm the **sole software developer at Perains ON Technology** (since May 2026), w
 
 ---
 
-### 🤖 AI-Assisted Engineering
+### AI-Assisted Engineering
 
 I design and run my own **AI agent harness** on [OpenCode](https://opencode.ai) — the scaffolding around the model matters as much as the model itself:
 
@@ -30,7 +30,7 @@ I design and run my own **AI agent harness** on [OpenCode](https://opencode.ai) 
 
 ---
 
-### 🚀 Stack & Technologies
+### Stack & Technologies
 
 | Category | Technologies |
 | :--- | :--- |
@@ -43,7 +43,7 @@ I design and run my own **AI agent harness** on [OpenCode](https://opencode.ai) 
 
 ---
 
-### 💼 Experience
+### Experience
 
 **PerainsON Technology** — *Software Engineer*
 *May 2026 — Present*
@@ -62,7 +62,7 @@ I design and run my own **AI agent harness** on [OpenCode](https://opencode.ai) 
 
 ---
 
-### 🛠️ Featured Projects
+### Featured Projects
 
 #### [Perains ON Sistemas](https://perainson.duckdns.org)
 My own **SaaS ERP for Brazilian accounting** — API-first Go backend (chi, sqlc, pgx, OpenAPI), Angular frontend, payroll workflow with approval steps and audit trails.
@@ -82,11 +82,11 @@ Customer service platform that organizes incoming **WhatsApp messages by departm
 
 #### [archpi](https://github.com/EmanuProds/archpi) & [fedorapi](https://github.com/EmanuProds/fedorapi)
 Shell toolkits that turn a fresh **Arch Linux** / **Fedora** install into a complete development workstation in minutes — dotfiles, packages, and configs fully automated.
-`Bash` `Automation` · archpi ⭐ 3
+`Bash` `Automation` · archpi (3 stars)
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://emanuprods.github.io/about-me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuprods)
